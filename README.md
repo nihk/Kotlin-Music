@@ -1,4 +1,4 @@
-# Kotlin-Music
+# Kotlin-Music-API
 A simple music API using Kotlin
 
     fun main(args: Array<String>) {
